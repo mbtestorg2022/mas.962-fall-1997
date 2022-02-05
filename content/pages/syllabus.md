@@ -41,10 +41,39 @@ Grading
 
 Your grade will be determined as a weighted average:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Studio (Homework + Class Participation) | 90% |
-| Quiz | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Studio (Homework + Class Participation)
+{{< tdclose >}}
+{{< tdopen >}}
+90%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Obligatory Policy Statement
 ---------------------------
